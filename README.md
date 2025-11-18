@@ -1,2 +1,3 @@
 # Wireless-EV-Charging-System
-Designed and developed a solar-powered, inductive charging model by integrating copper coils and electronic circuitry into modified roadways for dynamic EV charging during travel, enabling reduced charging time and extended range.
+A solar-powered, inductive charging model by integrating copper coils and electronic circuitry into modified roadways for dynamic EV charging during travel, enabling reduced charging time and extended range.
+Details: Designing a model of a wireless EV Charging System by modifying the road and implementing the principle of inductive magnetization using copper coils and electronic circuitry on Solar power as a conventional energy resource. This System charges EVvs simultaneously as they travel, thus reducing charging time and enabling longer distances to be travelled by EVs.
